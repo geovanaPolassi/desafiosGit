@@ -1,2 +1,2 @@
 # desafiosGit
-desafios da uala 2 de git
+desafios da aula 2 de git
